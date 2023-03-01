@@ -1,2 +1,5 @@
 # epicode-w2-D3
-Amazon Clone
+
+L'obiettivo è stato ricreare la pagina il più simile possibile all'immagine "Final.png", ovver un simil della homepage di Amazon.
+
+La pagina è responsive anche su mobile.
